@@ -1,0 +1,60 @@
+
+Things to ask the user upon first install
+
+- What is your full name?
+- What do you wish your login name to be?
+- What do you want your password to be?
+- What is the name of your computer?
+
+--- THIS MAY NOT HAPPEN IF NET IS ALREADY DETECTED ---
+- How will you connect? ( Wireless or Ethernet )
+- ( Get wireless credentials )
+--- RESUME
+
+- What mirror do you wish to use?
+	- US or EU
+- What flavor do you want?
+	- Current ( Recommended )
+	- Stable
+	- Experimental
+- What CPU do you have?
+	- x86-64bit
+	- x86-32bit
+	- arm-32bit
+- What Sub-Arch do you have?
+	- x86-64
+		INTEL
+			- corei7
+			- core2_64
+			- atom_64
+		AMD
+			- amd64-k10
+			- amd64-k8
+		GENERIC
+			- generic_64
+	- x86-32
+		- core2_32
+		- atom_32
+		- amd64-k8_32
+		- athlon-xp
+		- i686
+		- i486
+	- arm-32
+		- armv6j_hardfp
+		- armv7a_hardfp
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

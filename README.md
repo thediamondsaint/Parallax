@@ -10,4 +10,4 @@ So far the modules in this unit will be ..
 	3. Parallax-Updater ( The GUI Portage tool. )
 	4. WM = Razor-Qt ( Window Manager )
 	5. Terminal = Terminator ( Terminal )
-	6. Browser = Chrome ( Possibly Firefox or Midori )
+	6. Browser = Chrome ( Possibly Chrome or Midori )
